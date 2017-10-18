@@ -1,5 +1,5 @@
 # bme-bigdata
-Biomedical engineering - Big Data analytics platforms-first test-conflict
+Biomedical engineering - Big Data analytics platforms-first test-conflicttest
 
 ## Setting up a data science environment
 
