@@ -1,5 +1,5 @@
 # bme-bigdata
-Biomedical engineering - Big Data analytics platforms
+Biomedical engineering - Big Data analytics platforms-first test
 
 ## Setting up a data science environment
 
